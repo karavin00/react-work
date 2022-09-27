@@ -1,0 +1,16 @@
+*{
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #a1c7ff;
+  color: white;
+  padding: 40px;
+  font-family: Sans-Serif;
+  text-align: center;
+}
+
+.container{
+  margin: 30px auto;
+  width: 350px;
+}

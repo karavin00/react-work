@@ -1,0 +1,16 @@
+.listItem{
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 40px;
+}
+
+.listItem li{
+    background: burlywood;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+    padding: 15px;
+    color: rgb(70, 70, 70);
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    position: relative;
+}
