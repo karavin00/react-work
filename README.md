@@ -70,4 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ### software useing for this project
-software use react and postman
+software use react and postman VScode
+###how to use 
+ใช้งานโดยที่ต้องมีการติดตั้ง React และต้องมีVScode ทำการติดตั้งทุกอย่างให้เรียบร้อย
+
